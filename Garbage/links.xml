@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    
+    <area>Dhaka</area>
+    <category>subscribe.php</category>
+    
+   
+
+    
+  </row>
+  <area>Banani</area>
+   
+    <category>subscribe.php</category>
+   
+
+  <row>
+  <area>Gulshan</area>
+  
+    <category>subscribe.php</category>
+   
+  </row>
+   
+    <category>subscribe.php</category>
+    
+  <row>
+  <area>Gulshan</area>
+   
+    <category>subscribe.php</category>
+    
+  </row>
+  <row>
+  <area>Bashundara</area>
+  
+    <category>subscribe.php</category>
+   
+  </row>
+  <row>
+  <area>Dhanmondi</area>
+   
+    <category>./login.php</category>
+    
+  </row>
+  <area>Uttara</area>
+ 
+    <category>subscribe.php</category>
+    
+  <row>
+  <area>baridhara</area>
+   
+    <category>subscribe.php</category>
+  </row>
+ 
+
+  
+  </root>

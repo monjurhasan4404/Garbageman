@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+img{
+    height:800px;
+}
+
+body{
+    background-color:rgb(14, 13, 13);
+}
+h2{
+    text-align: center;
+    color:white;
+    margin-top: 50px;;
+}
+.card-body{
+    background-color:rgb(14, 13, 13);
+}
+.card-title, .card-text{
+    color:white;
+}
